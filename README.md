@@ -1,4 +1,6 @@
-# Reusing Fresco Logic FL2000DX USB-to-HDMI Driver From an Old Windows Installation
+# Reusing Fresco Logic FL2000DX USB-to-HDMI Driver From an Old Windows 11 Installation
+
+Freco Logic  FL2000DX Usb to HDMI issue
 
 This document explains how to **export** the working Fresco Logic FL2000DX driver from an old Windows 10/11 installation and **install** it on a new Windows 10/11 installation on the same PC.
 
